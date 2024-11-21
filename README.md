@@ -1,4 +1,4 @@
-# ⚖️ Themis: Detecting Watermark Perturbation-based Adversarial Examples via Usable Information Theory
+# ⚖️ Identifying Watermark Adversarial Examples via Inference-Detection Integrated Design in SoC
 
 ## Requirements
 
